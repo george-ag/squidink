@@ -1,4 +1,4 @@
-# theme-squidink
+# SquidInk Theme for VSCode
 Dark, Minimal UI theme for Visual Studio Code
 
 ## Installation
