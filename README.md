@@ -1,6 +1,10 @@
 # SquidInk Theme for VSCode
 Dark, Minimal UI theme for Visual Studio Code
 
+## Preview
+
+![SquidInk Preview](/images/theme-squidink_preview.png)
+
 ## Installation
 
 1. Download zip file, unzip, copy the folder and paste it on your ```.vscode\extensions``` folder.
